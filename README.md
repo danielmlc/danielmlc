@@ -36,7 +36,7 @@
 <p>&emsp;&emsp;大家好，我是danielmlc</p>
 <p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
 <p>&emsp;&emsp;热爱编程，希望能成为一名优秀的开源贡献者。</p>
-<p style="width:780px;"><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;&emsp;&emsp;&emsp;</strong></p>
+<p style="width:800px"><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;&emsp;&emsp;&emsp;</strong></p>
 </td>
 </tr>
 
