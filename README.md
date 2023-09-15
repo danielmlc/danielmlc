@@ -96,7 +96,7 @@
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img  height="110px"  src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img  height="150px"  src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
