@@ -39,7 +39,7 @@
 
 <!--  skill badge 技能徽章 -->
 
-常用开发语言以及框架
+🧰常用开发语言、框架以及工具
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -53,7 +53,7 @@
 ![Mysql Badge](https://img.shields.io/badge/Mysql-41CD52?logo=mysql&logoColor=fff&style=flat)
 ![Tidb Badge](https://img.shields.io/badge/tidb-092E20?logo=tidb&logoColor=fff&style=flat)
   
-🧰 常用的工具
+
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-FCC624?logo=Ubuntu&logoColor=000&style=flat)
 ![kubernetes Badge](https://img.shields.io/badge/kubernetes-0178D6?logo=kubernetes&logoColor=fff&style=flat)
@@ -75,7 +75,7 @@
 <img  src="https://github-profile-trophy.vercel.app/?username=danielmlc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielmlc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielmlc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161&theme=graywhite" />
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielmlc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- Wakatime Graph-->
