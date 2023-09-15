@@ -25,7 +25,8 @@
 #  🙋 Hello
 
 <table>
-<tr><td>
+<tr>
+  <td>
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
@@ -35,7 +36,7 @@
 <p>&emsp;&emsp;大家好，我是danielmlc</p>
 <p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
 <p>&emsp;&emsp;热爱编程，希望能成为一名优秀的开源贡献者。</p>
-
+<p><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！！！</strong></p>
 </td>
 </tr>
 
