@@ -7,8 +7,8 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://s2.wzznft.com/i/2023/09/15/grysqj.png" /><br>
+  <!-- knock code pictures 图片 -->
+  <img height="50px" src="https://s2.wzznft.com/i/2023/09/15/grysqj.png" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
