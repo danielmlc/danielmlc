@@ -35,12 +35,12 @@
 <p>&emsp;&emsp;大家好，我是danielmlc</p>
 <p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
 <p>&emsp;&emsp;热爱编程，希望能成为一名优秀的开源贡献者。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td>
 </tr>
 
-
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
