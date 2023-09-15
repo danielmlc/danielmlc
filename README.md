@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 图片 -->
-  <img height="50px" src="https://s2.wzznft.com/i/2023/09/15/grysqj.png" /><br>
+  <img height="220px" src="https://s2.wzznft.com/i/2023/09/15/grysqj.png" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -36,7 +36,9 @@
 <p><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;</strong></p>
 
 </div>
-
+<br>
+<br>
+<br>
 <!--  skill badge 技能徽章 -->
 
 🧰常用开发语言、框架以及工具
@@ -63,7 +65,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-
+<br>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
@@ -78,7 +80,7 @@
 
 <!-- 基本信息 -->
 <div align="center"> 
-  <img  width="90%" src="https://metrics.lecoq.io/danielmlc?template=classic&config.timezone=Asia%2FShanghai"> 
+  <img  width="80%" src="https://metrics.lecoq.io/danielmlc?template=classic&config.timezone=Asia%2FShanghai"> 
 </div>
 
 
