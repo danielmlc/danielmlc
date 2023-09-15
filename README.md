@@ -68,7 +68,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![nestjs Badge](https://img.shields.io/badge/nestjs-4FC08D?logo=nestjs&logoColor=fff&style=flat)
+![nestjs Badge](https://img.shields.io/badge/nestjs-181717?logo=nestjs&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Nodejs Badge](https://img.shields.io/badge/Nodejs-41CD52?logo=nodejs&logoColor=fff&style=flat)
 ![Typescript Badge](https://img.shields.io/badge/Typescript-41CD52?logo=typescript&logoColor=fff&style=flat)
@@ -79,12 +79,10 @@
 🧰 常用的工具
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-FCC624?logo=Ubuntu&logoColor=000&style=flat)
-![kubernetes Badge](https://img.shields.io/badge/kubernetes-0078D6?logo=kubernetes&logoColor=fff&style=flat)
+![kubernetes Badge](https://img.shields.io/badge/kubernetes-0178D6?logo=kubernetes&logoColor=fff&style=flat)
 ![docker Badge](https://img.shields.io/badge/docker-0078D6?logo=docker&logoColor=fff&style=flat)
-![jenkins Badge](https://img.shields.io/badge/jenkins-0078D6?logo=jenkins&logoColor=fff&style=flat)
-![gittea Badge](https://img.shields.io/badge/gittea-0078D6?logo=gittea&logoColor=fff&style=flat)
+![jenkins Badge](https://img.shields.io/badge/jenkins-0072D6?logo=jenkins&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
