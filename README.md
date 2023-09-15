@@ -71,7 +71,7 @@
 ![nestjs Badge](https://img.shields.io/badge/nestjs-181717?logo=nestjs&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Nodejs Badge](https://img.shields.io/badge/Nodejs-41CD52?logo=nodejs&logoColor=fff&style=flat)
-![Typescript Badge](https://img.shields.io/badge/Typescript-41CD52?logo=typescript&logoColor=fff&style=flat)
+![Typescript Badge](https://img.shields.io/badge/Typescript-41ED52?logo=typescript&logoColor=fff&style=flat)
 ![Rust Badge](https://img.shields.io/badge/Rust-61DAFB?logo=rust&logoColor=000&style=flat)
 ![Mysql Badge](https://img.shields.io/badge/Mysql-41CD52?logo=mysql&logoColor=fff&style=flat)
 ![Tidb Badge](https://img.shields.io/badge/tidb-092E20?logo=tidb&logoColor=fff&style=flat)
@@ -80,8 +80,8 @@
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-FCC624?logo=Ubuntu&logoColor=000&style=flat)
 ![kubernetes Badge](https://img.shields.io/badge/kubernetes-0178D6?logo=kubernetes&logoColor=fff&style=flat)
-![docker Badge](https://img.shields.io/badge/docker-0078D6?logo=docker&logoColor=fff&style=flat)
-![jenkins Badge](https://img.shields.io/badge/jenkins-0072D6?logo=jenkins&logoColor=fff&style=flat)
+![docker Badge](https://img.shields.io/badge/docker-10E8D6?logo=docker&logoColor=fff&style=flat)
+![jenkins Badge](https://img.shields.io/badge/jenkins-0012D6?logo=jenkins&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
