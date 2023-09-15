@@ -36,7 +36,7 @@
 <p>&emsp;&emsp;大家好，我是danielmlc</p>
 <p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
 <p>&emsp;&emsp;热爱编程，希望能成为一名优秀的开源贡献者。</p>
-<p><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;&emsp;&emsp;&emsp;</strong></p>
+<p style="width:780px;"><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;&emsp;&emsp;&emsp;</strong></p>
 </td>
 </tr>
 
@@ -103,7 +103,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
 <!-- GitHub metrics 信息指标 -->
@@ -111,7 +111,9 @@
 
 <!-- 基本信息 -->
 <div align="center"> <img src="https://metrics.lecoq.io/danielmlc?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<!-- second form 第二个表格 -->
+
+
+<!-- 各项统计信息 -->
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
@@ -141,5 +143,5 @@
 
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </div>
