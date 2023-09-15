@@ -27,7 +27,7 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-<div align="left" style="width:100%">
+<div align="left" style="width:100%;border: 1px solid #efe6e6;padding:10px;">
 <img align="right" width="88" src="https://s2.wzznft.com/i/2023/09/15/gzo6gq.png" />
 
 <p>&emsp;&emsp;大家好，我是danielmlc</p>
