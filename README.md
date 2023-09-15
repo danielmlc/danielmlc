@@ -36,7 +36,7 @@
 <p>&emsp;&emsp;大家好，我是danielmlc</p>
 <p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
 <p>&emsp;&emsp;热爱编程，希望能成为一名优秀的开源贡献者。</p>
-<p><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！！！&emsp;&emsp;&emsp;</strong></p>
+<p><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;&emsp;&emsp;&emsp;</strong></p>
 </td>
 </tr>
 
@@ -103,12 +103,14 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
+
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-
+<!-- 基本信息 -->
+<div align="center"> <img src="https://metrics.lecoq.io/danielmlc?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- second form 第二个表格 -->
 <table>
   <tr>
@@ -137,7 +139,6 @@
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
