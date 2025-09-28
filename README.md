@@ -1,10 +1,5 @@
 <div align="center">
   
-  <!-- dynamic typing effect 动态打字效果 -->
- 
-
-  <!-- knock code pictures 图片 -->
-  <img height="220px" src="https://s2.wzznft.com/i/2023/09/15/grysqj.png" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -13,11 +8,6 @@
     <a href="https://space.bilibili.com/374721744"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=danielmlc&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
- <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=435&lines=闲看庭前花开落，漫随天外云卷舒!&center=true&size=22" alt="Typing SVG" />
-    </a>
   </div>
 
 </div>
@@ -86,9 +76,6 @@
 
 <div align="center" >
 
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=danielmlc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielmlc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
