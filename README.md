@@ -59,6 +59,8 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+ <!-- 基础信息 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
 
 <!-- GitHub 数据统计 -->
 <div align="center">
@@ -74,8 +76,7 @@
   
   <br><br>
   
-  <!-- 详细贡献统计 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
+ 
   
   <!-- 统计摘要 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmlc&theme=github_dark" />
