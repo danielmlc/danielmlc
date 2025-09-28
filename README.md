@@ -61,31 +61,25 @@
 
 
 
-<!-- GitHub 数据统计 -->
 <div align="center">
   
-  <!-- 详细贡献概览 -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
+  <!-- 详细概览 -->
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
   
-
   
-  <!-- 基础统计 - 并排显示 -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <!-- 核心统计 -->
+  <div>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+    &nbsp;&nbsp;
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  </div>
   
-
+  <!-- 连续记录 -->
+  <img width="95%" src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
   
-  <!-- 连续提交统计 -->
-  <img width="100%" src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
-  
-
-  
-  <!-- 工作时间统计 -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
-  
-
-  
-  <!-- GitHub活动图 -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
+  <!-- 工作时间分析 -->
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
+  <!-- 活动热力图 -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
 
 </div>
