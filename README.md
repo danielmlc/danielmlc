@@ -18,7 +18,6 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 <div align="left" style="width:100%;border: 1px solid #efe6e6;padding:10px;">
-<img align="right" width="88" src="https://s2.wzznft.com/i/2023/09/15/gzo6gq.png" />
 
 <p>&emsp;&emsp;Hi, 我是danielmlc</p>
 <p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
@@ -61,31 +60,20 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- 基本信息 -->
-<div align="center"> 
-  <img  width="80%" src="https://metrics.lecoq.io/danielmlc?template=classic&config.timezone=Asia%2FShanghai"> 
-</div>
-
-
-<div align="center" >
-
 <!-- GitHub 数据统计 -->
 <div align="center">
 
-<!-- GitHub Stats 基础统计 -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-
-<!-- 最常用语言统计 -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-<!-- 连续提交统计 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=radical&hide_border=true" />
-
-<!-- GitHub活动图 -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
+  <!-- GitHub Stats 基础统计 -->
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <!-- 最常用语言统计 -->
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  
+  <!-- 连续提交统计 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=radical&hide_border=true" />
+  
+  <!-- GitHub活动图 -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
 
 </div>
 
