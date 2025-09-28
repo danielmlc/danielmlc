@@ -75,6 +75,38 @@
   <!-- GitHub活动图 -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
 
+
+  <!-- GitHub 数据统计区域 -->
+  <div align="center">
+  
+  <!-- 基础统计卡片 -->
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  
+  <br><br>
+  
+  <!-- 连续提交记录 -->
+  <img src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
+  
+  <br><br>
+  
+  <!-- 详细贡献统计 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
+  
+  <!-- 统计摘要 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmlc&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
+  </div>
+
+<!-- 简洁的GitHub统计 -->
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=github_dark&langs_count=6" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
+
+
 </div>
 
 </div>
