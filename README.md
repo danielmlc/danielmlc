@@ -63,22 +63,21 @@
 
 <div align="center">
   
-  <!-- 详细概览 -->
+  <!-- 基本统计 -->
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
   
   
   <!-- 核心统计 -->
   <div>
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-    &nbsp;&nbsp;
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
   </div>
-  
+  <div>
   <!-- 连续记录 -->
-  <img width="95%" src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
-  
+  <img  height="180px"  src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
   <!-- 工作时间分析 -->
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
+  <img  height="180px"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
+  </div>
   <!-- 活动热力图 -->
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
 
