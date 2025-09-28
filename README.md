@@ -59,11 +59,12 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
- <!-- 基础信息 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
+
 
 <!-- GitHub 数据统计 -->
 <div align="center">
+ <!-- 基础信息 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
   
   <!-- 基础统计卡片 -->
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -79,7 +80,6 @@
  
   
   <!-- 统计摘要 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmlc&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
   <br><br>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
