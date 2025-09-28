@@ -62,19 +62,6 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center">
-
-  <!-- GitHub Stats 基础统计 -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <!-- 最常用语言统计 -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  
-  <!-- 连续提交统计 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=radical&hide_border=true" />
-  
-
-  <!-- GitHub 数据统计区域 -->
-  <div align="center">
   
   <!-- 基础统计卡片 -->
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
