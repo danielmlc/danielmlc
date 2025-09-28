@@ -70,12 +70,11 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
   
-  <br><br>
+
   
   <!-- 连续提交记录 -->
   <img src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
-  
-  <br><br>
+
   
   <!-- 统计摘要 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
