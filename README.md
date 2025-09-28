@@ -77,11 +77,8 @@
   
   <br><br>
   
- 
-  
   <!-- 统计摘要 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
-  <br><br>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
 
 </div>
