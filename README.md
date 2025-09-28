@@ -72,26 +72,20 @@
 
 <div align="center" >
 
-
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielmlc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielmlc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-
-
-
 <div align="center">
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=auto&hide_border=true" />
-&emsp;
+<!-- GitHub Stats 基础统计 -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 
+<!-- 最常用语言统计 -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img  height="150px"  src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
+<!-- 连续提交统计 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=radical&hide_border=true" />
+
+<!-- GitHub活动图 -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
 
 </div>
 
