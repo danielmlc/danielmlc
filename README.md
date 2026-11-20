@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 动态打字机欢迎语 -->
+<!-- Terminal Style Typing Banner -->
 <a href="https://github.com/danielmlc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+danielmlc+%F0%9F%91%8B;Full-Stack+%26+SaaS+Developer;Open+Source+Enthusiast+%7C+Indie+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+whoami+%3A+danielmlc;%3E+role+%3A+Full-Stack+%26+SaaS+Architect;%3E+mission+%3A+Building+DevTools+%26+Open+Source" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=danielmlc&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=danielmlc&label=VIEWS&color=00f7ff&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/danielmlc?tab=followers">
-    <img src="https://img.shields.io/github/followers/danielmlc?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/danielmlc?label=FOLLOWERS&style=for-the-badge&color=7000ff" alt="Followers" />
   </a>
 </p>
 
