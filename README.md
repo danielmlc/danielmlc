@@ -113,10 +113,10 @@ hobbies: [Gaming, Music, Writing, Cycling, Hardware]
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
-  <a href="https://marlin-md.github.io/marlin-website/">
+  <a href="https://danielmlc.top">
     <img src="https://img.shields.io/badge/WEBSITE-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:longchangma@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-7000FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
