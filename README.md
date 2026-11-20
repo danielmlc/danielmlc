@@ -1,83 +1,89 @@
 <div align="center">
-  
 
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <a href="https://www.yuque.com/danielmlc/cb8wsn"><img src="https://img.shields.io/badge/YuQue-语雀-green" /></a>&emsp;
-    <a href="https://danielmlc.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/374721744"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=danielmlc&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
+<!-- 动态打字机欢迎语 -->
+<a href="https://github.com/danielmlc">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+danielmlc+%F0%9F%91%8B;Full-Stack+%26+SaaS+Developer;Open+Source+Enthusiast+%7C+Indie+Maker" alt="Typing SVG" />
+</a>
 
-</div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=danielmlc&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/danielmlc?tab=followers">
+    <img src="https://img.shields.io/github/followers/danielmlc?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
+  </a>
+</p>
 
-#  🙋 hello world!
-
-
-<!-- About me 关于我 -->
-### 🤺 About Me
-<div align="left" style="width:100%;border: 1px solid #efe6e6;padding:10px;">
-
-<p>&emsp;&emsp;Hi, 我是danielmlc</p>
-<p>&emsp;&emsp;热爱编程、游戏、音乐、写作。</p>
-<p>&emsp;&emsp;热爱编程，希望能成为一名优秀的开源贡献者。</p>
-<p><strong>&emsp;&emsp;Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world ！&emsp;&emsp;</strong></p>
+> *"Writing code is a consolidation of thoughts, a materialization of creativity. Code changes the world!"*
 
 </div>
-<br>
-<br>
-<br>
-<!--  skill badge 技能徽章 -->
 
-🧰常用开发语言、框架以及工具
+---
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![nestjs Badge](https://img.shields.io/badge/nestjs-181717?logo=nestjs&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Nodejs Badge](https://img.shields.io/badge/Nodejs-41CD52?logo=nodejs&logoColor=fff&style=flat)
-![Typescript Badge](https://img.shields.io/badge/Typescript-41ED52?logo=typescript&logoColor=fff&style=flat)
-![Rust Badge](https://img.shields.io/badge/Rust-61DAFB?logo=rust&logoColor=000&style=flat)
-![Mysql Badge](https://img.shields.io/badge/Mysql-41CD52?logo=mysql&logoColor=fff&style=flat)
-![Tidb Badge](https://img.shields.io/badge/tidb-092E20?logo=tidb&logoColor=fff&style=flat)
-  
+### 👨‍💻 About Me
 
+- 🚀 **专注领域**：全栈与 SaaS 软件开发，热衷于构建高效、优雅的开发工具与低代码/工程化实践。
+- 🌱 **开源愿景**：热爱编程，持续探索前沿技术（如 Rust、云原生等），致力于成为一名优秀的开源贡献者。
+- 🎯 **生活与爱好**：写代码之余，喜欢游戏 🎮、音乐 🎵、写作 ✍️，也热爱户外运动与折腾硬件。
 
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-FCC624?logo=Ubuntu&logoColor=000&style=flat)
-![kubernetes Badge](https://img.shields.io/badge/kubernetes-0178D6?logo=kubernetes&logoColor=fff&style=flat)
-![docker Badge](https://img.shields.io/badge/docker-10E8D6?logo=docker&logoColor=fff&style=flat)
-![jenkins Badge](https://img.shields.io/badge/jenkins-0012D6?logo=jenkins&logoColor=fff&style=flat)
-![Nginx Badge](https://img.shields.io/badge/Nginx-FCC624?logo=Nginx&logoColor=000&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+---
 
-<br>
+### ✨ Featured Projects
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+| 项目 | 简介 | 链接 |
+| :--- | :--- | :--- |
+| **🐟 Marlin** | 一款面向 Windows 的桌面端 Markdown 编辑器，原生支持 Mermaid 图表实时渲染，专注流畅的写作与绘图体验。 | [官网预览](https://marlin-md.github.io/marlin-website/) |
+| *(可补充其他仓库)* | *(一句话介绍你的另一个开源项目或工具)* | *(GitHub 链接)* |
 
+---
 
+### 🧰 Tech Stack
+
+#### **Languages & Backend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+#### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-E30C34?style=for-the-badge&logo=pingcap&logoColor=white)
+
+#### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- 基本统计 -->
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmlc&theme=github_dark" />
-  
-  <!-- 核心统计 -->
-  <div width="95%">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-  </div>
-  <div width="95%">
-  <!-- 工作时间分析 -->
-  <img  height="180px"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmlc&theme=github_dark&utcOffset=8" />
-  <!-- 连续记录 -->
-  <img  height="180px"  src="https://streak-stats.demolab.com/?user=danielmlc&theme=tokyonight&hide_border=true&background=0d1117" />
-  </div>
-  <!-- 活动热力图 -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmlc&theme=github-compact&hide_border=true" />
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=danielmlc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmlc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <!-- 将下面的链接替换为你自己的联系方式，不需要的可以删掉 -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://marlin-md.github.io/marlin-website/">
+    <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=90&section=footer" />
