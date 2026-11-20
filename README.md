@@ -22,9 +22,9 @@
 
 <!-- ================= ROW 1: TWO-COLUMN CARDS ================= -->
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ SYSTEM_PROFILE</h3>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">⚡ SYSTEM_PROFILE</h3>
 
 ```yaml
 name: danielmlc
@@ -37,50 +37,50 @@ status: Open Source Contributor
 hobbies: [Gaming, Music, Writing, Cycling, Hardware]
 ```
 
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧰 TECH_ARSENAL</h3>
-      <p align="center">
-        <b>Languages & Backend</b><br/>
-        <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,py,rust&theme=dark" />
-      </p>
-      <p align="center">
-        <b>Frontend & Databases</b><br/>
-        <img src="https://skillicons.dev/icons?i=vue,html,css,mysql&theme=dark" />
-        <img src="https://img.shields.io/badge/TiDB-E30C34?style=for-the-badge&logo=pingcap&logoColor=white" height="28" />
-      </p>
-      <p align="center">
-        <b>DevOps & Environment</b><br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,ubuntu,vscode,github&theme=dark" />
-      </p>
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🧰 TECH_ARSENAL</h3>
+<p align="center">
+  <b>Languages & Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,py,rust&theme=dark" />
+</p>
+<p align="center">
+  <b>Frontend & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=vue,html,css,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/TiDB-E30C34?style=for-the-badge&logo=pingcap&logoColor=white" height="28" />
+</p>
+<p align="center">
+  <b>DevOps & Environment</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,ubuntu,vscode,github&theme=dark" />
+</p>
+</td>
+</tr>
 </table>
 
 ---
 
 <!-- ================= ROW 2: PROJECTS & STATS ================= -->
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 FEATURED_PROJECTS</h3>
-      <ul>
-        <li>
-          <b>🐟 <a href="https://marlin-md.github.io/marlin-website/">Marlin</a></b><br/>
-          <i>Windows Desktop Markdown Editor with native real-time Mermaid diagram rendering.</i>
-        </li>
-        <br/>
-        <li>
-          <b>📦 <a href="https://github.com/danielmlc?tab=repositories">More Repositories</a></b><br/>
-          <i>Explore my open-source experiments, SaaS tools, and scripts.</i>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">📊 TELEMETRY</h3>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🚀 FEATURED_PROJECTS</h3>
+<ul>
+  <li>
+    <b>🐟 <a href="https://marlin-md.github.io/marlin-website/">Marlin</a></b><br/>
+    <i>Windows Desktop Markdown Editor with native real-time Mermaid diagram rendering.</i>
+  </li>
+  <br/>
+  <li>
+    <b>📦 <a href="https://github.com/danielmlc?tab=repositories">More Repositories</a></b><br/>
+    <i>Explore my open-source experiments, SaaS tools, and scripts.</i>
+  </li>
+</ul>
+</td>
+<td width="50%" valign="top" align="center">
+<h3 align="center">📊 TELEMETRY</h3>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmlc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
 </table>
 
 ---
