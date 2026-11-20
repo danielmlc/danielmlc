@@ -17,16 +17,17 @@
 </div>
 
 ---
-
-### 👨‍💻 About Me
-
-- 🚀 **专注领域**：全栈与 SaaS 软件开发，热衷于构建高效、优雅的开发工具与低代码/工程化实践。
-- 🌱 **开源愿景**：热爱编程，持续探索前沿技术（如 Rust、云原生等），致力于成为一名优秀的开源贡献者。
-- 🎯 **生活与爱好**：写代码之余，喜欢游戏 🎮、音乐 🎵、写作 ✍️，也热爱户外运动与折腾硬件。
-
----
-
+```yaml
+name: danielmlc
+role: Full-Stack & SaaS Developer
+focus:
+  - Low-Code Platforms & DSL Design
+  - Developer Tools & Desktop Apps
+  - Cloud-Native & Distributed Systems
+status: Open Source Contributor
+hobbies: [Gaming, Music, Writing, Cycling, Hardware]
 ### ✨ Featured Projects
+```
 
 | 项目 | 简介 | 链接 |
 | :--- | :--- | :--- |
@@ -87,3 +88,21 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=90&section=footer" />
+
+</td>
+<td width="50%" valign="top">
+  <h3 align="center">🧰 TECH_ARSENAL</h3>
+  <p align="center">
+    <b>Languages & Backend</b><br/>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,py,rust&theme=dark" />
+  </p>
+  <p align="center">
+    <b>Frontend & Databases</b><br/>
+    <img src="https://skillicons.dev/icons?i=vue,html,css,mysql&theme=dark" />
+    <img src="https://img.shields.io/badge/TiDB-E30C34?style=for-the-badge&logo=pingcap&logoColor=white" height="28" />
+  </p>
+  <p align="center">
+    <b>DevOps & Environment</b><br/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,ubuntu,vscode,github&theme=dark" />
+  </p>
+</td>
